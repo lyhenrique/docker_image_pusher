@@ -8,3 +8,4 @@ xhofe/alist:latest
 hslr/sun-panel
 # clash
 dreamacro/clash
+yohe/nastool
