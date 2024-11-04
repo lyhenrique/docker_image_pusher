@@ -9,3 +9,4 @@ hslr/sun-panel
 # clash
 dreamacro/clash
 19970688/nastools-bt
+allanpk716/chinesesubfinder
