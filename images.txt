@@ -12,7 +12,5 @@ dreamacro/clash
 allanpk716/chinesesubfinder
 
 # immich
-ghcr.io/immich-app/immich-server
-ghcr.io/immich-app/immich-machine-learning
 redis:6.2-alpine
 tensorchord/pgvecto-rs:pg14-v0.2.0
