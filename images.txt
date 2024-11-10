@@ -14,3 +14,9 @@ allanpk716/chinesesubfinder
 # immich
 redis:6.2-alpine
 tensorchord/pgvecto-rs:pg14-v0.2.0
+
+# nastools
+diluka/nas-tools:2.9.1
+johngong/qbittorrent:4.6.0-4.6.0.10
+nyanmisaka/jellyfin:latest
+
