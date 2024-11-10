@@ -1,22 +1,22 @@
-nginx
+# nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# --platform=linux/arm64 xiaoyaliu/alist
 # 内网导航
-hslr/sun-panel
+# hslr/sun-panel
 # clash
-dreamacro/clash
-19970688/nastools-bt
-allanpk716/chinesesubfinder
+# dreamacro/clash
+# 19970688/nastools-bt
+# allanpk716/chinesesubfinder
 
 # immich
-redis:6.2-alpine
-tensorchord/pgvecto-rs:pg14-v0.2.0
+# redis:6.2-alpine
+# tensorchord/pgvecto-rs:pg14-v0.2.0
 
 # nastools
-diluka/nas-tools:2.9.1
-johngong/qbittorrent:4.6.0-4.6.0.10
-nyanmisaka/jellyfin:latest
-
+# diluka/nas-tools:2.9.1
+# johngong/qbittorrent:4.6.0-4.6.0.10
+# nyanmisaka/jellyfin:latest
+linuxserver/jackett
