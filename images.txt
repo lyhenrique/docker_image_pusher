@@ -17,6 +17,6 @@
 
 # nastools
 # diluka/nas-tools:2.9.1
-# johngong/qbittorrent:4.6.0-4.6.0.10
+johngong/qbittorrent
 # nyanmisaka/jellyfin:latest
-linuxserver/jackett
+#linuxserver/jackett
