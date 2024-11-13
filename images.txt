@@ -20,4 +20,5 @@
 # johngong/qbittorrent
 # nyanmisaka/jellyfin:latest
 # linuxserver/jackett
-nastool/nas-tools
+# nastool/nas-tools
+jellyfin/jellyfin
