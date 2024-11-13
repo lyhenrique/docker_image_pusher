@@ -21,4 +21,5 @@
 # nyanmisaka/jellyfin:latest
 # linuxserver/jackett
 # nastool/nas-tools
-jellyfin/jellyfin
+# jellyfin/jellyfin
+nyanmisaka/jellyfin
