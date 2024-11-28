@@ -6,8 +6,6 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # 内网导航
 # hslr/sun-panel
-# clash
-# dreamacro/clash
 # 19970688/nastools-bt
 # allanpk716/chinesesubfinder
 
@@ -18,8 +16,6 @@
 
 # diluka/nas-tools:2.9.1
 # johngong/qbittorrent
-# nyanmisaka/jellyfin:latest
+nyanmisaka/jellyfin:latest
 # linuxserver/jackett
 # nastool/nas-tools
-# jellyfin/jellyfin
-nyanmisaka/jellyfin
